@@ -1,0 +1,21 @@
+OrderID,OrderDate,OrderQuantity,Sales,Discount,Profit,UnitPrice,ShippingCost,CustomerSegment,ProductBaseMargin,ShipDate,OrderUrgent,Shipping,CusName,Province,Region,ProCategory,ProSubCate,ProPacking,Customer_ID,ProNameID
+54528,12/9/2015,8,88,0.06,-6.38,10.48,2.89,Consumer,0.6,12/11/2015,Medium,Train,621,Chonburi,East,Office,Supplies,SmallPack,C621 ,P978 
+30215,1/31/2014,23,3637.728,0.06,349.47,195.99,8.99,Home Office,0.6,2/2/2014,Medium,Train,139,Phra Nakhon Si Ayutthaya,Central,IT,Communication,SmallBox,C139 ,P1022 
+16547,1/23/2014,8,1749.64,0.04,-533.23,218.75,69.64,Corporate,0.77,1/23/2014,NotSpecified,Truck,576,Chonburi,East,Home,Table,SuperBig,C576 ,P292 
+48931,5/22/2014,33,750.66,0,120.05,20.95,4,Corporate,0.6,5/29/2014,Slow,Train,146,Chiang mai,North,IT,Computer Accessories,SmallBox,C146 ,P477 
+48452,9/13/2015,15,73.41,0.08,-44.79,4.91,4.97,Corporate,0.38,9/15/2015,Fast,Train,308,Phra Nakhon Si Ayutthaya,Central,Office,Binder,SmallBox,C308 ,P872 
+56677,3/16/2014,35,430.55,0,120.01,12.22,2.85,Corporate,0.55,3/17/2014,Fast,Train,660,Nakhon Ratchasima,NorthEast,Home,Furniture,SmallPack,C660 ,P156 
+8231,9/22/2017,5,110.03,0.06,-31.33,19.98,10.49,Corporate,0.49,9/23/2017,SuperFast,Train,602,Nakhon Ratchasima,NorthEast,Home,Furniture,SmallBox,C602 ,P015 
+4007,5/22/2015,18,1038.4,0.01,112.36,56.96,13.22,Corporate,0.56,5/23/2015,Fast,Train,345,Chainat,Central,Office,Equipment,SmallBox,C345 ,P349 
+898,5/7/2015,26,7668.55,0.04,-715.78,296.18,54.12,Consumer,0.76,5/7/2015,Fast,Truck,677,Kanchanaburi,West,Home,Table,SuperBig,C677 ,P612 
+38311,3/27/2016,9,1201.51,0.1,-185.48,140.85,19.99,Consumer,0.73,3/29/2016,Medium,Air,181,Sumutprakan,Metropolitan,Office,PowerSupply,SmallBox,C181 ,P498 
+15142,3/9/2017,21,330.22,0.07,-51.72,15.28,10.91,Corporate,0.36,3/11/2017,NotSpecified,Train,522,Chiang mai,North,Office,Binder,SmallBox,C522 ,P888 
+35300,2/4/2015,13,119.03,0.06,29.62,8.95,2.01,Corporate,0.39,2/5/2015,Medium,Train,193,Chainat,Central,Office,Paper,Bag,C193 ,P884 
+69,5/8/2014,28,51.53,0.03,0.35,1.68,0.7,Corporate,0.6,5/10/2014,NotSpecified,Air,396,Lamphun,North,Office,Supplies,Bag,C396 ,P773 
+7527,11/15/2014,42,7062.616,0.02,2288.64,195.99,4.2,Small Business,0.56,11/16/2014,Medium,Train,582,Saraburi,Central,IT,Communication,SmallBox,C582 ,P1026 
+12999,3/8/2015,31,2712.07,0.09,-435.56,95.43,19.99,Consumer,0.79,3/9/2015,Fast,Train,305,Saraburi,Central,Office,PowerSupply,SmallBox,C305 ,P497 
+43367,2/11/2015,3,23.38,0.08,-12.19,6.48,5.14,Small Business,0.37,2/14/2015,SuperFast,Train,38,Nakhon Ratchasima,NorthEast,Office,Paper,SmallBox,C038 ,P1245 
+43653,10/4/2017,39,666.4,0,2.02,15.73,7.42,Small Business,0.56,10/5/2017,Fast,Air,31,Lamphun,North,Office,Pens,SmallPack,C031 ,P125 
+18368,11/4/2017,3,212.91,0,-65.15,70.97,3.5,Corporate,0.59,11/6/2017,NotSpecified,Train,28,Sumutprakan,Metropolitan,Office,Equipment,SmallBox,C028 ,P1066 
+52964,3/5/2015,44,5735.79,0.08,828.27,136.98,24.49,Corporate,0.59,3/6/2015,SuperFast,Train,381,Chonburi,East,Home,Furniture,Box,C381 ,P040 
+32516,9/28/2015,7,60.19,0.01,6.44,7.78,2.5,Corporate,0.38,9/30/2015,SuperFast,Train,647,Nakhon Ratchasima,NorthEast,Office,Envelopes,SmallBox,C647 ,P972 
